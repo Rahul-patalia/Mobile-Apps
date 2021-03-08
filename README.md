@@ -1,4 +1,4 @@
-# Mobile-Apps
+# Mobile Apps
 These apps are created in [Android Studio](https://developer.android.com/studio) to demonstrate the use of Fragment, RecyclerView , and ViewPager in a mobile app to make it more efficient.
 
 ## For Run this Files
